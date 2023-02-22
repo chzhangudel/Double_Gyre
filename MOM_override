@@ -1,0 +1,16 @@
+! Blank file in which we can put "overrides" for parameters
+! R4 10 years
+#override NIGLOBAL = 88
+#override NJGLOBAL = 80
+#override DT = 1080.
+#override DT_FORCING = 1080.
+#override USE_HOR_VISC_PYTHON = True
+#override DAYMAX = 3650.0
+#override RESTINT = 1825.0
+#override LAPLACIAN  = False
+#override BIHARMONIC = True
+#override SMAGORINSKY_AH = True
+#override SMAG_BI_CONST = 0.06
+#override PYTHON_DIR = "/scratch/cimes/cz3321/MOM6/MOM6-examples/src/MOM6/config_src/external/ML_Forpy/Forpy_CNN_GZ21/"
+#override PYTHON_FILE = "testNN"
+#override PYTHON_BRIDGE_LIB = 'forpy'
