@@ -1,2 +1,2 @@
 # Double_Gyre
-This is the setup files for the wind-driven double gyre case used for ML parameterization of subgrid momentum forcing. See details in the paper of...
+Setup files for the wind-driven double gyre case used for machine learned parameterization (Guillaumin and Zanna, 2021) in MOM6.
